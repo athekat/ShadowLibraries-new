@@ -1,6 +1,8 @@
 Shadow Libraries
 =========
 
+**Link:** https://athekat.github.io/ShadowLibraries-new/
+
 A pirate libraries archive.
 
 The name of this channel comes from the [homonym book  edited by Joe Karaganis](https://mitpress.mit.edu/books/shadow-libraries).
